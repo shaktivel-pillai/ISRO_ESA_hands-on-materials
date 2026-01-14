@@ -1,1 +1,4 @@
+ipympl
+jupyter
+sospice==0.0.8
 sunraster==0.7.0
