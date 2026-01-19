@@ -1,5 +1,15 @@
 # EUI Tutorial ISRO_ESA workshop January 2026, India
 
+## You can run this notebook in Google Colab:
+You can also run this notebook with Google Colab:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ISRO-ESA-Heliophysics-Workshop/hands-on-materials/blob/main/solar-orbiter/eui/EUI_tutorial.ipynb)
+
+and you will need to include this at the start of the Google Colab notebook:
+```
+!pip -q install -r https://raw.githubusercontent.com/ISRO-ESA-Heliophysics-Workshop/hands-on-materials/refs/heads/main/solar-orbiter/spice/requirements.txt
+```
+
+
 
 ## Prerequisites 
 - Python 3.8+ with: ipython jupyterlab matplotlib sunpy sunpy-soar astropy pandas scipy ipympl scikit-image
